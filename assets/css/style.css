@@ -1453,7 +1453,7 @@ a:focus {
 }
 
 .main-nav.right {
-    justify-content: flex-start;
+    justify-content: flex-end;
     padding-left: 160px;
 }
 
